@@ -1,1 +1,1 @@
-<a href="uiverse.io">Uiverse card replication challenge</a>
+<a href="https://uiverse.io/challenges">Uiverse card replication challenge</a>
